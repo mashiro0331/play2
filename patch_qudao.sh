@@ -12,7 +12,7 @@ download_azurlane () {
     # 使用curl命令下载apk文件
     #curl -o blhx.apk  $url
     
-    url="https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=1790230&resource=301&source=7"
+    url="https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=1790230&resource=301&source=1"
     curl -o blhx.apk -L $url
     
     fi
